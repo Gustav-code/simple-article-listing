@@ -2,13 +2,13 @@
 
 ---
 
-- Nombre: 
-- Número de Control:
+- Nombre: Gustavo Eduardo Castro Limon
+- Número de Control: 23151227
 
 ---
 
 ## 📌 Descripción
-
+3 articulos simples
 
 
 ---
@@ -21,9 +21,9 @@
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://gustav-code.github.io/simple-article-listing/#
+Deploy: https://gustav-code.github.io/simple-article-listing/#
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+estuvo bien izi
