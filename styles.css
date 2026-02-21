@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: hsl(184, 100%, 94%);
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 700px;
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 25px;
+}
+
+.input-email input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid hsl(244, 100%, 21%);
+    border-radius: 8px;
+    margin-top: 8px;
+    text-align: center;
+}
+
+input::placeholder {
+    color: black;
+    opacity: 1;
+}
+
+
+.req {
+    color: hsl(112, 48%, 40%);
+}
+
+.consent {
+    margin-top: 20px;
+}
+
+.consent label {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 14px;
+}
+
+.submit {
+    width: 100%;
+    background-color: hsl(239, 92%, 41%);
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: hsl(239, 93%, 18%);
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+    display: block;
+    margin-top: 4px;
+}
+
+.error-input {
+    border: 1px solid red;
+}
+
+.text {
+    font-size: 12px;
+    margin-top: 15px;
+    color: hsl(0, 0%, 25%);
+}
+
+.parrafo {
+    margin-top: 15px;
+    font-size: 14px;
+    color: hsl(0, 0%, 25%);
+}
